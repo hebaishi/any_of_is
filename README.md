@@ -1,6 +1,6 @@
 # ```any_of(set).is()```
 
-A template header that enables the use of the following syntax in C++ to check if an element is a member of a set:
+A C++ template header that enables the use of the following syntax to check if an element is a member of a set:
 
 ```c++
 std::cout << "Enter character:\n";
